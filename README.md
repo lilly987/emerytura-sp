@@ -21,3 +21,5 @@ imie = Console.ReadLine();
 ```
 
 ### nagłówek 2.2
+
+strona [wsei](http://wsei.edu.pl)
