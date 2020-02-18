@@ -8,7 +8,7 @@ prosty projekt cwiczeniowy
 lorem ipsem
 
 * aaa
-* bbbb
+*  bbbb
 * nnnnn
 
 ### nagłówek 2.1
