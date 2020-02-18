@@ -8,9 +8,16 @@ prosty projekt cwiczeniowy
 lorem ipsem
 
 * aaa
-*  bbbb
+ *  bbbb
 * nnnnn
 
 ### nagłówek 2.1
+
+Podstawowym typem jest ~` string` oraz `iny`
+
+```C#
+Console.WrieLine("Podaj imię")
+imie = Console.ReadLine();
+```
 
 ### nagłówek 2.2
